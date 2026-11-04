@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="226" viewBox="0 0 1000 226" role="img" aria-labelledby="title"><title id="title">EchoCode: A local-first workspace for AI-powered coding.</title><defs><style>text{font-family:'Segoe UI',Arial,sans-serif} .mono{font-family:Consolas,'Courier New',monospace}</style></defs>
+  <rect x="1" y="1" width="998" height="224" rx="20" fill="#1c2235" stroke="#343e56" stroke-width="2"/>
+  <rect x="1" y="32" width="6" height="162" rx="3" fill="#8b5cf6"/>
+  <text x="34" y="41" fill="#8b5cf6" font-size="13" font-weight="800" letter-spacing="1.5">01 / BUILDING TOGETHER</text>
+  <text x="32" y="99" fill="#f3f4fa" font-size="42" font-weight="800" letter-spacing="-.7">EchoCode</text>
+  <text x="34" y="137" fill="#b9c2d6" font-size="21">A local-first workspace for AI-powered coding.</text>
+  <rect x="34" y="163" width="443" height="32" rx="16" fill="#8b5cf6" opacity=".1"/>
+  <text x="52" y="184" fill="#8b5cf6" font-size="13" font-weight="800" letter-spacing="1">GO  /  WAILS  /  TYPESCRIPT</text>
+  <circle cx="869" cy="112" r="67" fill="#8b5cf6" opacity=".09"/>
+  <g transform="translate(869 112)" color="#8b5cf6" stroke="currentColor" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="m-20-15-16 16 16 16m40-32 16 16-16 16M8-23-7 25"/></g>
+  <path d="m953 39 14-14m-14 0h14v14" stroke="#b9c2d6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
