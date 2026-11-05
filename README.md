@@ -1,60 +1,68 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero.svg" alt="SliyRainbow — A LITTLE COLOR. A LOT OF IDEAS." width="100%">
+  <img src="./assets/hero.svg" alt="SliyRainbow · FULL-STACK DEVELOPER · 从前端交互，到后端服务。" width="100%">
 </picture>
 
 <p align="center">
-  <img src="./assets/interest-1.svg" alt="AI Agents" height="34">
-  <img src="./assets/interest-2.svg" alt="Desktop Apps" height="34">
-  <img src="./assets/interest-3.svg" alt="Open Source" height="34">
+  <img src="./assets/skill-1.svg" alt="Frontend" height="28">
+  <img src="./assets/skill-2.svg" alt="Backend" height="28">
+  <img src="./assets/skill-3.svg" alt="C#" height="28">
+  <img src="./assets/skill-4.svg" alt="Automation" height="28">
 </p>
 
-## 嗨，我是 SliyRainbow 👋
+主要在做 **EUFrame_Next** 的前端与后端，以及 **EYPA_WebCrawler** 的资源收集与整理。喜欢把完整的开发流程打通，让工具更顺手。
 
-喜欢把脑海里的点子，变成真正能用的工具。
+### 项目 / Selected work
 
-参与 **EchoCode** 的开发与探索，关注 **AI Agent、桌面应用和工作流自动化**。这里记录正在做的项目，也欢迎一起交流、一起打磨。
-
-## 🧩 正在做的事
-
-<a href="https://github.com/Steve3957/EchoCode">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/echocode-dark.svg">
-  <img src="./assets/echocode.svg" alt="EchoCode — A local-first workspace for AI-powered coding." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/euframe-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/euframe-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/euframe-dark.svg">
+  <img src="./assets/euframe.svg" alt="EUFrame_Next · 私密项目，负责前端与后端开发" width="100%">
 </picture>
-</a>
-
-把 AI Agent、开发工具、Git 和终端放进同一个桌面工作台。仓库现由 [Steve3957](https://github.com/Steve3957) 管理和维护。
 
 <a href="https://github.com/SliyRainbow/EYPA_WebCrawler">
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/webcrawler-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/webcrawler-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/webcrawler-dark.svg">
-  <img src="./assets/webcrawler.svg" alt="EYPA_WebCrawler — Collect, organize, and connect useful resources." width="100%">
+  <img src="./assets/webcrawler.svg" alt="EYPA_WebCrawler · 用 Agent 辅助资源收集与整理" width="100%">
 </picture>
 </a>
 
-用 Agent 技术辅助资源收集与整理，探索更顺手的信息工作流。
+### 数据 / GitHub by the numbers
 
-## 🛠️ 项目里的技术
+<a href="https://github.com/SliyRainbow?tab=repositories">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stats-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/stats-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <img src="./assets/stats.svg" alt="SliyRainbow · 公开仓库、Stars、关注者与近一年贡献统计" width="100%">
+</picture>
+</a>
 
-<p>
-  <img src="./assets/stack-1.svg" alt="Go" height="34">
-  <img src="./assets/stack-2.svg" alt="TypeScript" height="34">
-  <img src="./assets/stack-3.svg" alt="C#" height="34">
-  <img src="./assets/stack-4.svg" alt="SolidJS" height="34">
-  <img src="./assets/stack-5.svg" alt="Wails" height="34">
-</p>
+<a href="https://github.com/SliyRainbow?tab=overview">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/activity-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/activity-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity.svg" alt="SliyRainbow · GitHub 贡献日历；桌面展示近一年，手机展示近 90 天" width="100%">
+</picture>
+</a>
 
-## 🌱 最近关注
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/languages-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/languages-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+  <img src="./assets/languages.svg" alt="SliyRainbow · 公开原创仓库的代码语言分布" width="100%">
+</picture>
 
-- 让 AI Agent 更贴近日常开发。
-- 把桌面工具和自动化工作流做得更顺手。
-- 把有意思的想法，一点点做成开源项目。
+<sub>统计取自 GitHub 公开可见数据，每日更新；语言分布不包含私密项目、Fork 和个人主页仓库。</sub>
 
-## 💬 一起聊聊
+---
 
-欢迎通过 [EchoCode Issues](https://github.com/Steve3957/EchoCode/issues) 交流使用体验、问题和想法，也欢迎用 Pull Request 带来改进。
+[项目反馈](https://github.com/SliyRainbow/EYPA_WebCrawler/issues) · [GitHub](https://github.com/SliyRainbow) · Friends: [@Steve3957](https://github.com/Steve3957)
 
-一起打磨 EchoCode：[@Steve3957](https://github.com/Steve3957) · [查看 EchoCode](https://github.com/Steve3957/EchoCode) · [下载发布版本](https://github.com/Steve3957/EchoCode/releases)
-
-<img src="./assets/footer.svg" alt="GOOD IDEAS DESERVE A LITTLE COLOR." width="100%">
+<sub>Build the interface. Connect the backend. Keep improving.</sub>

@@ -1,20 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-labelledby="title"><title id="title">SliyRainbow — A LITTLE COLOR. A LOT OF IDEAS.</title><defs><style>text{font-family:'Segoe UI',Arial,sans-serif} .mono{font-family:Consolas,'Courier New',monospace}</style></defs>
-  <defs><clipPath id="bounds"><rect width="1000" height="380" rx="24"/></clipPath><linearGradient id="rainbow"><stop stop-color="#fb7185"/><stop offset=".45" stop-color="#8b5cf6"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
-  <g clip-path="url(#bounds)"><rect width="1000" height="380" fill="#141827"/>
-  <line x1="30" y1="45" x2="970" y2="45" stroke="#2e354b" stroke-width="1" opacity=".4"/><line x1="30" y1="97" x2="970" y2="97" stroke="#2e354b" stroke-width="1" opacity=".4"/><line x1="30" y1="149" x2="970" y2="149" stroke="#2e354b" stroke-width="1" opacity=".4"/><line x1="30" y1="201" x2="970" y2="201" stroke="#2e354b" stroke-width="1" opacity=".4"/><line x1="30" y1="253" x2="970" y2="253" stroke="#2e354b" stroke-width="1" opacity=".4"/><line x1="30" y1="305" x2="970" y2="305" stroke="#2e354b" stroke-width="1" opacity=".4"/><line x1="30" y1="357" x2="970" y2="357" stroke="#2e354b" stroke-width="1" opacity=".4"/><circle cx="915" cy="54" r="165" fill="#3c285a"/><circle cx="1005" cy="345" r="190" fill="#183b3e"/>
-  <rect x="0" y="0" width="1000" height="7" fill="url(#rainbow)"/>
-  <rect x="42" y="38" width="62" height="25" rx="12.5" fill="#8b5cf6"/>
-  <text x="73" y="55" text-anchor="middle" font-size="11" font-weight="800" fill="#fff" letter-spacing="1">HELLO!</text>
-  <text x="117" y="56" font-size="13" font-weight="700" fill="#b8c2d8" letter-spacing="1.1">A LITTLE COLOR. A LOT OF IDEAS.</text>
-  <text x="40" y="167" fill="#f8fafc" font-size="74" font-weight="800" letter-spacing="-3">SliyRainbow<tspan fill="#fb7185">.</tspan></text>
-  <text x="44" y="211" fill="#b8c2d8" font-size="22">Make something useful. Make it a little fun.</text>
-  <rect x="44" y="244" width="550" height="51" rx="12" fill="#1c2235" stroke="#2e354b"/>
-  <circle cx="65" cy="269" r="4" fill="#fb7185"/><circle cx="79" cy="269" r="4" fill="#fbbf24"/><circle cx="93" cy="269" r="4" fill="#34d399"/>
-  <text x="113" y="275" fill="#b8c2d8" font-size="16" class="mono">const nextIdea = buildSomethingCool();</text>
-  <g transform="translate(755 140) rotate(-10)"><rect width="153" height="127" rx="25" fill="#1c2235" stroke="#2e354b" stroke-width="2"/>
-  <path d="M42 46 24 64l18 18m69-36 18 18-18 18M87 39 67 89" fill="none" stroke="#8b5cf6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="143" cy="3" r="22" fill="#fb7185"/><path d="m135 3 6 6 10-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <path d="M896 55v14m-7-7h14" fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/><path d="M615 75v14m-7-7h14" fill="none" stroke="#fb7185" stroke-width="3" stroke-linecap="round"/><path d="M945 269v14m-7-7h14" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/><path d="M681 299v14m-7-7h14" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-linecap="round"/><circle cx="687" cy="188" r="7" fill="#38bdf8"/><circle cx="926" cy="131" r="4" fill="#fb7185"/>
-  <text x="44" y="344" fill="#b8c2d8" font-size="12" font-weight="700" letter-spacing="2">IDEAS + CODE + A LITTLE CURIOSITY</text>
-  <path d="M755 326c25-22 50 22 75 0s50 22 75 0" fill="none" stroke="url(#rainbow)" stroke-width="5" stroke-linecap="round"/>
-  </g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="275" viewBox="0 0 1000 275" role="img" aria-labelledby="title"><title id="title">SliyRainbow · FULL-STACK DEVELOPER · 从前端交互，到后端服务。</title><style>text{font-family:'Segoe UI','Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}</style>
+    <defs><linearGradient id="edge"><stop stop-color="#9b87f5"/><stop offset="1" stop-color="#f69ab7"/></linearGradient><radialGradient id="glow"><stop stop-color="#9b87f5" stop-opacity=".15"/><stop offset="1" stop-color="#9b87f5" stop-opacity="0"/></radialGradient></defs>
+    <rect x=".5" y=".5" width="999" height="274" rx="18" fill="#11151e" stroke="#293142"/>
+    <ellipse cx="930" cy="80" rx="270" ry="210" fill="url(#glow)"/>
+    <rect x="36" y="36" width="24" height="3" rx="1.5" fill="url(#edge)"/>
+    <text x="72" y="42" fill="#9b87f5" font-size="13" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+    <text x="33" y="137" fill="#eef0fa" font-size="71" font-weight="700" letter-spacing="-2.5">SliyRainbow<tspan fill="#9b87f5">.</tspan></text>
+    <text x="37" y="179" fill="#a1abbd" font-size="22">从前端交互，到后端服务。</text>
+    <line x1="37" y1="214" x2="673" y2="214" stroke="#293142"/>
+    <circle cx="43" cy="240" r="4" fill="#9b87f5"/>
+    <text x="57" y="245" fill="#a1abbd" font-size="12" class="mono" letter-spacing=".6">EUFRAME_NEXT  /  EYPA_WEBCRAWLER</text>
+    <g transform="translate(852 134)" fill="none"><circle r="85" stroke="#9b87f5" stroke-opacity=".15"/><circle r="64" stroke="#9b87f5" stroke-opacity=".3" stroke-dasharray="2 8"/><path d="M-85 0A85 85 0 0 1 0-85" stroke="#9b87f5" stroke-width="3"/><path d="m-25-17-18 18 18 18m50-36 18 18-18 18M9-28-9 29" stroke="#9b87f5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="0" cy="-85" r="6" fill="#f69ab7"/><circle cx="85" cy="0" r="4" fill="#9b87f5"/></g></svg>
