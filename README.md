@@ -1,68 +1,106 @@
+<div align="center">
+
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero.svg" alt="SliyRainbow · FULL-STACK DEVELOPER · 从前端交互，到后端服务。" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/welcome-dark.svg">
+  <img src="./assets/welcome.svg" alt="Hi there, I&apos;m SliyRainbow!" width="740" >
+</picture>
+
+<p>Full-stack development · Agent automation · Keep building</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/coding.gif">
+  <img src="./assets/developer.svg" alt="Developer at work" width="480" height="268">
+</picture>
+
+<br><br>
+
+<a href="https://github.com/SliyRainbow?tab=followers">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/social-dark.svg">
+  <img src="./assets/social.svg" alt="SliyRainbow · GitHub, Stars and followers" width="440" >
+</picture>
+</a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
+  <img src="./assets/snake.svg" alt="SliyRainbow&apos;s contribution snake" width="100%" >
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## 🙋 Hello
+
+### 🧑‍💻 About me
+
+- 🧑‍💻 主要负责 **EUFrame_Next** 的前端与后端开发。
+- 🔒 EUFrame_Next 是私密项目，这里展示我的开发方向与分工。
+- 🤖 同时开发 **[EYPA_WebCrawler](https://github.com/SliyRainbow/EYPA_WebCrawler)**，用 Agent 辅助资源收集与整理。
+
+### 🚀 My projects
+
+- **EUFrame_Next** `Private` — 前端与后端开发。
+- **[EYPA_WebCrawler](https://github.com/SliyRainbow/EYPA_WebCrawler)** — 资源收集、整理与 Agent 自动化。
+
+### 🛠️ Tech & tools
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
+  <img src="./assets/skills.svg" alt="公开项目与日常开发使用的技术和工具" width="376" >
+</picture>
+</p>
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <img src="./assets/stats.svg" alt="SliyRainbow&apos;s public GitHub statistics" width="450" >
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+  <img src="./assets/languages.svg" alt="SliyRainbow&apos;s public code languages" width="345" >
+</picture>
+
+<br>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/streak-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/streak-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg">
+  <img src="./assets/streak.svg" alt="SliyRainbow&apos;s contribution streaks" width="830" >
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity.svg" alt="SliyRainbow&apos;s contribution activity over the last 30 days" width="100%" >
+</picture>
+
+</div>
+
+<sub>数据每日更新，取自 GitHub 公开可见信息。语言占比仅统计原创公开仓库，不包含私密项目和个人主页素材。</sub>
+
+## 🧊 My contribution world
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-3d-dark.svg">
+  <img src="./assets/contributions-3d.svg" alt="SliyRainbow&apos;s 3D contribution calendar" width="100%" >
 </picture>
 
 <p align="center">
-  <img src="./assets/skill-1.svg" alt="Frontend" height="28">
-  <img src="./assets/skill-2.svg" alt="Backend" height="28">
-  <img src="./assets/skill-3.svg" alt="C#" height="28">
-  <img src="./assets/skill-4.svg" alt="Automation" height="28">
+  <a href="https://github.com/SliyRainbow/EYPA_WebCrawler/issues">项目交流</a> · <a href="https://github.com/SliyRainbow">GitHub</a> · Friends: <a href="https://github.com/Steve3957">@Steve3957</a>
 </p>
 
-主要在做 **EUFrame_Next** 的前端与后端，以及 **EYPA_WebCrawler** 的资源收集与整理。喜欢把完整的开发流程打通，让工具更顺手。
-
-### 项目 / Selected work
-
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/euframe-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/euframe-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/euframe-dark.svg">
-  <img src="./assets/euframe.svg" alt="EUFrame_Next · 私密项目，负责前端与后端开发" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img src="./assets/footer.svg" alt="Thanks for visiting. Happy coding!" width="100%" >
 </picture>
 
-<a href="https://github.com/SliyRainbow/EYPA_WebCrawler">
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/webcrawler-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/webcrawler-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/webcrawler-dark.svg">
-  <img src="./assets/webcrawler.svg" alt="EYPA_WebCrawler · 用 Agent 辅助资源收集与整理" width="100%">
-</picture>
-</a>
-
-### 数据 / GitHub by the numbers
-
-<a href="https://github.com/SliyRainbow?tab=repositories">
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stats-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/stats-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-  <img src="./assets/stats.svg" alt="SliyRainbow · 公开仓库、Stars、关注者与近一年贡献统计" width="100%">
-</picture>
-</a>
-
-<a href="https://github.com/SliyRainbow?tab=overview">
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/activity-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/activity-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
-  <img src="./assets/activity.svg" alt="SliyRainbow · GitHub 贡献日历；桌面展示近一年，手机展示近 90 天" width="100%">
-</picture>
-</a>
-
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/languages-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/languages-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
-  <img src="./assets/languages.svg" alt="SliyRainbow · 公开原创仓库的代码语言分布" width="100%">
-</picture>
-
-<sub>统计取自 GitHub 公开可见数据，每日更新；语言分布不包含私密项目、Fork 和个人主页仓库。</sub>
-
----
-
-[项目反馈](https://github.com/SliyRainbow/EYPA_WebCrawler/issues) · [GitHub](https://github.com/SliyRainbow) · Friends: [@Steve3957](https://github.com/Steve3957)
-
-<sub>Build the interface. Connect the backend. Keep improving.</sub>
+<sub>Layout inspired by <a href="https://github.com/sun0225SUN">sun0225SUN</a> · <a href="./THIRD_PARTY.md">Credits</a></sub>

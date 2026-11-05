@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="252" viewBox="0 0 600 252" role="img" aria-labelledby="title"><title id="title">EYPA_WebCrawler · PUBLIC · 用 Agent 辅助资源收集与整理</title><style>text{font-family:'Segoe UI','Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}</style>
-    <rect x=".5" y=".5" width="599" height="251" rx="14" fill="#fafaff" stroke="#e1e5ef"/>
-    <rect x="1" y="24" width="3" height="204" rx="1.5" fill="#7054cf"/>
-    <text x="29" y="38" fill="#7054cf" font-size="14" font-weight="600" letter-spacing="1.5">OPEN SOURCE</text>
-    <text x="27" y="98" fill="#202638" font-size="42" font-weight="650" letter-spacing="-.7">EYPA_WebCrawler</text>
-    <text x="29" y="145" fill="#646f83" font-size="22">用 Agent 辅助资源收集与整理</text>
-    <text x="29" y="211" fill="#7054cf" font-size="15" class="mono">C#  /  AGENTS  /  AUTOMATION</text>
-    </svg>
