@@ -1,6 +1,6 @@
 {
   "username": "SliyRainbow",
-  "updated": "2026-11-07",
+  "updated": "2026-11-09",
   "source": "Public GitHub REST API and public profile contribution calendar",
   "scope": "Languages exclude forks, private repositories and the profile repository. Calendar includes only publicly visible counts.",
   "public_repos": 3,
@@ -8,8 +8,6 @@
   "followers": 5,
   "contributions": 33,
   "calendar": {
-    "2025-11-08": 0,
-    "2025-11-09": 0,
     "2025-11-10": 0,
     "2025-11-11": 0,
     "2025-11-12": 0,
@@ -372,7 +370,9 @@
     "2026-11-04": 1,
     "2026-11-05": 4,
     "2026-11-06": 0,
-    "2026-11-07": 0
+    "2026-11-07": 0,
+    "2026-11-08": 0,
+    "2026-11-09": 0
   },
   "languages": [
     {
